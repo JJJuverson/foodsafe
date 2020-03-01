@@ -1,0 +1,2 @@
+# foodsafe
+vuedemo+django
